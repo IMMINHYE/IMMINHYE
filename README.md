@@ -26,5 +26,15 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
+    <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellij idea&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Anoconda-44A833?style=flat-square&logo=anoaconda&logoColor=white"> 
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"> 
+
 </div><br>
 </div>
