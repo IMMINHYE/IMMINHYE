@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minhye's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 <br>
 
-## 🔨 Skill set 🔨
+## 🤲 Introduction
+안녕하세요, 끊임없는 발전을 추구하는 백엔드 개발자 임민혜 입니다.
+
+## 🔨 Skill set
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
@@ -38,6 +41,6 @@
 
 </div>
 
-## 🔨 Blog 🔨
+## 📖 Blog 
 <a href="https://velog.io/@minhye1020/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 
