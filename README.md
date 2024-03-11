@@ -39,5 +39,5 @@
 </div>
 
 ## 🔨 Blog 🔨
-<a href="https://velog.io/@minhye1020/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
+<a href="https://velog.io/@minhye1020/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 
