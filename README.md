@@ -36,5 +36,8 @@
     <img src="https://img.shields.io/badge/Anoconda-44A833?style=flat-square&logo=anoaconda&logoColor=white"> 
     <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"> 
 
-</div><br>
 </div>
+
+## 🔨 Blog 🔨
+<a href="https://velog.io/@minhye1020/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
+
